@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.webPage{
+.imageContainer{
 	background-color:#CBD6CB;
 	padding:10px;
 }
@@ -20,9 +20,7 @@
 	width:200px;
 }
 
-.imageContainer{
-	width:200px;
-}
+
 
 table, th, td{
 	border:1px solid;
