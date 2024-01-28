@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.webPage{
+	background-color:#CBD6CB;
+	padding:10px;
+}
+
+.table1{
+	width:100%;
+}
+
+.firstCol{
+	width:200px;
+}
+
+.midCol{
+	width:600px;
+}
+
+.lastCol{
+	width:200px;
+}
+
+table, th, td{
+	border:1px solid;
+}
